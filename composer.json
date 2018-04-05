@@ -1,0 +1,14 @@
+{
+    "name": "dkjensen/fooevents_admin_pdf_tickets",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "^1.5",
+        "dompdf/dompdf": "^0.8.2"
+    },
+    "authors": [
+        {
+            "name": "David Jensen",
+            "email": "david@dkjensen.com"
+        }
+    ]
+}
